@@ -5,6 +5,10 @@
 * Players see their game in the forefront, but can also spot the other player's game in the background, almost transparent, like a shadow.
 * When a player clears one or more lines, the cleared blocks are transferred to the other player (One player's reward is the other's penalty.
 
+## Rahul First Update
+
+This is a test edit of flatris. 
+
 ## Transferring blocks from one player to the other
 
 The multiplayer game revolves around this core concept. At first it seems like a simple, zero-sum dynamic. But at closer inspection, is bears some complications and isn't necessarily zero-sum. Here are some special cases.
